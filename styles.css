@@ -72,7 +72,7 @@ footer {
   align-items: center;
   text-align: center;
   padding: 40px;
-  transform: translateX(200%);
+  transform: translateX(300%);
 }
 
 .icon-box {
@@ -160,7 +160,7 @@ footer {
   transform: translateX(0);
 }
 .hide-card-a {
-  transform: translateX(-200%);
+  transform: translateX(-300%);
 }
 
 @media screen and (max-width: 850px) {
